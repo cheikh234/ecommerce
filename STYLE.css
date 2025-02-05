@@ -1,0 +1,440 @@
+body{
+    margin: 0;
+}
+.livraison{
+    height: 7vh;
+    background-color: rgb(241, 147, 110);
+    text-align: center;
+    color: black;
+    
+
+}
+.hed{
+    height: 14vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+
+}
+ol{
+    list-style-type: none;
+    display: flex;
+    color: rgb(161, 5, 5);
+    gap: 30px;
+    
+}
+.qz{
+    display: flex;
+    gap: 30px;
+    
+}
+.canada{
+    color: rgb(120, 3, 3);
+
+}
+.photo{
+    height: 80vh;
+    background-color: aqua;
+    background-image: url(https://pranafoods.ca/cdn/shop/files/PRANA_BANNIERE_JANVIER_25_superfood_fr_1600x.jpg?v=1734556118);
+    background-position: center;
+    background-size: cover;
+    
+}
+.titre{
+    color: rgb(194, 5, 5);
+    height: 30vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.kphoto{
+    height: 60vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+.troisieme{
+    height: 20vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+button{
+    background-color: gray;
+    width: 140px;
+    height: 40px;
+    border-radius: 140px;
+    border: none;
+    color: white;
+    
+
+    
+
+}
+
+.quatriem{
+
+    height: 90vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+.jjj{
+    width: 140px;
+    height: 40px;
+    border-radius: 140px;
+    background-color: white;
+    color: black;
+    position: relative;
+    top: -25%;
+    left: 18%;
+    
+}
+.sj{
+    width: 140px;
+    height: 40px;
+    border-radius: 140px;
+    background-color: white;
+    color: black;
+    position: relative;
+    top: -25%;
+    left: 18%;
+
+}
+.js{
+    width: 140px;
+    height: 40px;
+    border-radius: 140px;
+    background-color: white;
+    color: black;
+    position: relative;
+    top: -25%;
+    justify-content: center;
+    left: 18%;
+
+}
+h2{
+    position: relative;
+    top: -24%;
+    color: white;
+    text-align: center;
+    
+}
+
+.cinq{
+    height: 80vh;
+    background-color: white;
+    background-image: url(https://pranafoods.ca/cdn/shop/files/banniere_site_web_sous_recette_1920x1080.jpg?v=1736176440);
+    background-size: cover;
+    background-position: center;
+
+    
+    
+    
+}
+.cae{
+    width: 250px;
+   height: 320px; 
+   background-color: white;
+   
+
+}
+.sers{
+    width: 250px;
+    height: 320px; 
+    background-color: white;
+   
+    
+
+}
+.dess{
+    width: 250px;
+    height: 320px; 
+    background-color: white;
+    
+    
+}
+.mme{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+   
+}
+.yuu{
+    width: 170px;
+    height: 40px;
+    border-radius: 170px;
+    background-color: white;
+    color: black;
+    position: relative;
+    left: 43%;
+    top: 10%;
+    
+}
+.cae a{
+    position: relative;
+    top: -5%;
+    
+}
+.sers a{
+    position: relative;
+    top: -5%;
+    
+
+}
+.dess a{
+    position: relative;
+    top: -5%;
+    
+}
+
+.video{
+
+    height: 60vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+    
+}
+.desu{
+    width: 190px;
+    height: 140px;
+    border-radius: 7%;
+    background-color: bisque;
+    background-image: url(https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif);
+    background-size: cover;
+    background-position: center;
+   
+}
+.mesu{
+    width: 190px;
+    height: 140px;
+    border-radius: 7%;
+    background-color: bisque;
+    background-image: url(https://i.gifer.com/mNm.gif);
+    background-size: cover;
+    background-position: center;
+  
+
+}
+.mesuu{
+    width: 190px;
+    height: 140px;
+    border-radius: 7%;
+    background-color: bisque;
+    background-image: url(https://plugins-media.makeupar.com/smb/blog/post/2022-12-20/f680cd83-0b5c-438f-89fb-8ad5f2d8d16b.gif);
+    background-size: cover;
+    background-position: center;
+    
+
+
+}
+.mesuuu{
+    width: 190px;
+    height: 140px;
+    border-radius: 7%;
+    background-color: bisque;
+    background-image: url(https://www.icegif.com/wp-content/uploads/joker-icegif.gif);
+    background-size: cover;
+    background-position: center;
+    
+
+}
+.mesuuuu{
+    width: 190px;
+    height: 140px;
+    border-radius: 7%;
+    background-color: bisque;
+    background-image: url(https://cdn.pixabay.com/animation/2024/02/02/10/25/10-25-48-900_512.gif);
+    background-size: cover;
+    background-position: center;
+    
+}
+.mesuuuuu{
+    width: 190px;
+    height: 140px;
+    border-radius: 7%;
+    background-color: bisque;
+    background-image: url(https://cdn.pixabay.com/animation/2024/04/03/18/26/18-26-44-64_512.gif);
+    background-size: cover;
+    background-position: center;
+   
+}
+.wz{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.qa{
+    text-align: center;
+    color: rgb(194, 5, 5);
+    }
+.laisse{
+    text-align: center;
+    color: rgb(194, 5, 5);
+    line-height: 60px;
+    
+    
+}
+/* cetiemsection */
+.cetiem
+{
+ height: 75vh;
+ background-color: white;
+ display: flex;
+ justify-content: space-around;
+ 
+
+}
+.hta{
+    width: 250px;
+    height: 320px; 
+    background-color: white;
+    text-align: center;
+}
+.hta h2{
+ position: relative;
+ top: -3%;
+ color: rgb(76, 73, 73);
+}
+.jou h2{
+    position: relative;
+ top: -3%;
+ color: rgb(76, 73, 73);
+}
+.jou{
+    width: 250px;
+    height: 320px; 
+    background-color: white;
+    text-align: center;
+}
+.joue h2{
+    position: relative;
+ top: -3%;
+ color: rgb(76, 73, 73);
+}
+.joue{
+    width: 250px;
+    height: 320px; 
+    background-color: white;
+    text-align: center;
+}
+
+
+
+
+.kk{
+    
+    width: 100%;
+    height: 100vh;
+    /* background-color: black; */
+    background-image: url(https://pranafoods.ca/cdn/shop/files/AdobeStock_749648972_1500x.jpg?v=1713464414);
+    background-size: cover;
+    background-position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    position: sticky;
+     
+
+}
+
+
+.gf{
+    position: relative;
+    z-index: 1;
+    height: 100vh;
+    background-color: white;
+}
+.htas{
+    width: 320px;
+    height: 395px; 
+    background-color: white;
+    text-align: center;
+}
+
+.jous{
+    width: 320px;
+    height: 395px; 
+    background-color: white;
+    text-align: center;
+}
+.joues{
+    width: 320px;
+    height: 395px; 
+    background-color: white;
+    text-align: center;
+    
+}
+.cetiems{
+    display: flex;
+    justify-content: space-around;
+}
+.butt{
+    width: 190px;
+    height: 40px;
+    border-radius: 190px;
+    background-color: grey;
+    color: white;
+    position: relative;
+    top: 70px;
+    
+}
+.avantt{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.htr{
+    height: 110vh;
+    background-color: white;
+    /* display: flex; */
+    /* justify-content: space-around; */
+    /* z-index: -1; */
+    /* align-items: center; */
+}
+.dev{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-left: 670px;
+    margin-top: -20%;
+    
+}
+.dernier{
+    height: 80vh;
+    background-image: url(https://pranafoods.ca/cdn/shop/files/banniere_bas_site_web_1500x.jpg?v=1736176415);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    /* position: sticky; */
+}
+
+
+
+.reu{
+    height: 80vh;
+    background-color: rgb(242, 189, 169);
+}
