@@ -411,6 +411,7 @@ h2{
 .htr{
     height: 110vh;
     background-color: white;
+    /* position: relative; */
     /* display: flex; */
     /* justify-content: space-around; */
     /* z-index: -1; */
@@ -434,12 +435,74 @@ h2{
     justify-content: center;
     align-items: center;
     color: white;
+    margin-top: 100px;
     /* position: sticky; */
 }
 
-
+#sarrastou{
+    padding: 10px;
+    width: 300px;
+}
 
 .reu{
-    height: 80vh;
+    height: 70vh;
     background-color: rgb(242, 189, 169);
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    padding: 50px;
+}
+.title{
+    color: rgb(63, 57, 57);
+    font-weight: bold;
+}
+.footer1, .footer2, p{
+    /* color: rgb(243, 9, 9); */
+}
+.f1{
+    color: brown;
+}
+.f2{
+    color: brown;
+}
+.page{
+    height: 30vh;
+    background-color: white;
+    padding: 20px;
+   
+}
+.page p{
+    color: grey;
+}
+.footer3{
+    line-height: 34px;
+}
+.footer3 input{
+    padding: 13px;
+}
+
+.ik{
+    position: relative;
+    top: 30px;
+}
+
+.footer0{
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.footer1{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+}
+.footer2{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+}
+.iconefooter{
+    display: flex;
+    gap: 1rem;
 }
